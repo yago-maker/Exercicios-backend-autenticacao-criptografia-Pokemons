@@ -93,6 +93,13 @@ Exemplo de retorno na listagem de pokemons:
 ]
 ```
 
+![image](https://github.com/yago-maker/Exercicios-backend-autenticacao-criptografia-Pokemons/assets/87579180/5e6b6b2b-31e7-4b4f-9817-909ee8ba2cc1)
+![image](https://github.com/yago-maker/Exercicios-backend-autenticacao-criptografia-Pokemons/assets/87579180/b8610224-6f4c-4a10-be60-85ea5662c5bc)
+![image](https://github.com/yago-maker/Exercicios-backend-autenticacao-criptografia-Pokemons/assets/87579180/1e29d5d4-7040-4e56-a8a2-913cc05456c4)
+![image](https://github.com/yago-maker/Exercicios-backend-autenticacao-criptografia-Pokemons/assets/87579180/64d46ac3-047e-47cf-9385-3caa8bf77093)
+
+
+
 
 
 ###### tags: `exercícios` `lógica` `banco de dados` `sql` `postgres`
