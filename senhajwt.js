@@ -1,0 +1,1 @@
+module.exports = 'Uma senha criptografada';
